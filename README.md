@@ -65,7 +65,7 @@ graph TD
 ### Sample Output (Example):
 - **Candidate**: Elena Petrova
 - **Match Score**: 71%
-- **Interest Score**: 98% (Stable)
+- **Interest Score**: 98% 
 - **Status**: "Highly interested, requested immediate follow-up."
 
 ---
