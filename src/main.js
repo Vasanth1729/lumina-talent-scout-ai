@@ -380,4 +380,4 @@ modalOverlay.addEventListener('click', (e) => {
 
 // Initial Log
 addLog("Lumina AI System v1.0.4 initialized.", "info");
-addLog("Connected to Global Talent Index.", "info");
+addLog("Connected to Deccan AI Global Talent Index.", "info");
